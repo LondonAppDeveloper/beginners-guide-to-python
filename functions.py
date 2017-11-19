@@ -1,4 +1,5 @@
 
+
 def greet_customer(name, num_apples=6):
     print('Hello, ' + name)
     print('We have ' + str(num_apples) + ' apples in stock.')
